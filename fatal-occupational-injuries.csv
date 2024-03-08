@@ -1,0 +1,466 @@
+﻿Occupation,Occupation code,Total fatal injuries (number),Violence and other injuries by persons or animals,Transportation incidents,Fires and explosions,"Falls, slips, trips",Exposure to harmful substances or environments,Contact with objects and equipment
+Total,,5486,849,2066,107,865,839,738
+Management occupations,11-0000,342,83,111,10,37,31,65
+Top executives,11-1000,34,8,17,0,5,0,0
+Chief executives,11-1010,15,0,9,0,0,0,0
+Chief executives,11-1011,15,0,9,0,0,0,0
+General and operations managers,11-1020,18,0,7,0,0,0,0
+General and operations managers,11-1021,18,0,7,0,0,0,0
+"Advertising, marketing, promotions, public relations, and sales managers",Nov-00,20,6,6,0,1,4,1
+Marketing and sales managers,20-Nov,17,0,0,0,1,4,1
+Sales managers,22-Nov,17,0,0,0,1,4,1
+Operations specialties managers,Nov-00,28,6,10,1,6,0,0
+Administrative services and facilities managers,10-Nov,6,0,3,1,0,0,0
+Industrial production managers,Nov-50,5,0,0,0,0,0,0
+Industrial production managers,Nov-51,5,0,0,0,0,0,0
+"Transportation, storage, and distribution managers",Nov-70,9,0,4,0,0,0,0
+"Transportation, storage, and distribution managers",Nov-71,9,0,4,0,0,0,0
+Other management occupations,Nov-00,260,63,78,7,25,23,61
+"Farmers, ranchers, and other agricultural managers",10-Nov,148,14,60,0,11,6,48
+"Farmers, ranchers, and other agricultural managers",13-Nov,148,14,60,0,11,6,48
+Construction managers,20-Nov,32,6,12,0,0,0,7
+Construction managers,21-Nov,32,6,12,0,0,0,7
+Food service managers,Nov-50,21,10,0,0,0,7,0
+Food service managers,Nov-51,21,10,0,0,0,7,0
+Entertainment and recreation managers,Nov-70,3,0,1,0,0,0,0
+Lodging managers,Nov-80,10,0,0,0,0,0,0
+Lodging managers,Nov-81,10,0,0,0,0,0,0
+Natural sciences managers,20-Nov,1,1,0,0,0,0,0
+Natural sciences managers,21-Nov,1,1,0,0,0,0,0
+"Property, real estate, and community association managers",Nov-40,11,7,0,0,1,0,0
+"Property, real estate, and community association managers",Nov-41,11,7,0,0,1,0,0
+Social and community service managers,Nov-50,4,0,0,0,0,0,0
+Social and community service managers,Nov-51,4,0,0,0,0,0,0
+Personal service managers,Nov-70,3,3,0,0,0,0,0
+Miscellaneous managers,Nov-90,18,5,0,0,0,4,5
+Business and financial operations occupations,13-0000,32,8,10,0,9,0,0
+Business operations specialists,13-1000,20,0,6,0,0,0,0
+"Claims adjusters, appraisers, examiners, and investigators",13-1030,3,0,1,0,0,0,0
+"Claims adjusters, examiners, and investigators",13-1031,3,0,0,0,0,0,0
+Human resources workers,13-1070,5,0,0,0,0,0,0
+Logisticians and project management specialists,13-1080,3,0,0,0,0,0,0
+Training and development specialists,13-1150,4,0,0,0,0,0,0
+Training and development specialists,13-1151,4,0,0,0,0,0,0
+Financial specialists,13-2000,12,0,4,0,0,0,0
+Accountants and auditors,13-2010,5,0,1,0,0,0,0
+Accountants and auditors,13-2011,5,0,1,0,0,0,0
+Computer and mathematical occupations,15-0000,12,3,5,0,0,0,0
+Computer specialists,15-1000,12,3,5,0,0,0,0
+Computer occupations,15-1200,12,3,5,0,0,0,0
+Computer support specialists,15-1230,4,0,0,0,0,0,0
+Computer network support specialists,15-1231,3,0,0,0,0,0,0
+Computer user support specialists,15-1232,1,0,0,0,0,0,0
+Database and network administrators and architects,15-1240,5,0,0,0,0,0,0
+Network and computer systems administrators,15-1244,5,0,0,0,0,0,0
+Architecture and engineering occupations,17-0000,41,5,14,0,9,8,5
+"Architects, surveyors, and cartographers",17-1000,10,0,0,0,0,0,0
+"Architects, except naval",17-1010,3,0,0,0,0,0,0
+"Surveyors, cartographers, and photogrammetrists",17-1020,7,0,0,0,0,0,0
+Surveyors,17-1022,7,0,0,0,0,0,0
+Engineers,17-2000,21,0,8,0,5,3,0
+Aerospace engineers,17-2010,1,0,0,0,0,0,0
+Aerospace engineers,17-2011,1,0,0,0,0,0,0
+Electrical and electronics engineers,17-2070,4,0,0,0,0,0,0
+Electrical engineers,17-2071,4,0,0,0,0,0,0
+Marine engineers and naval architects,17-2120,1,0,0,0,0,1,0
+Marine engineers and naval architects,17-2121,1,0,0,0,0,1,0
+Mechanical engineers,17-2140,4,0,1,0,0,0,0
+Mechanical engineers,17-2141,4,0,1,0,0,0,0
+"Drafters, engineering technicians, and mapping technicians",17-3000,10,0,0,0,0,0,0
+"Life, physical, and social science occupations",19-0000,20,0,9,0,0,3,0
+Physical scientists,19-2000,6,0,0,0,0,0,0
+"Life, physical, and social science technicians",19-4000,9,0,3,0,0,0,0
+Agricultural and food science technicians,19-4010,1,0,0,0,0,0,0
+Agricultural technicians,19-4012,1,0,0,0,0,0,0
+Chemical technicians,19-4030,4,0,0,0,0,0,0
+Chemical technicians,19-4031,4,0,0,0,0,0,0
+Occupational health and safety specialists and technicians,19-5000,4,0,0,0,0,0,0
+Occupational health and safety specialists and technicians,19-5010,4,0,0,0,0,0,0
+Occupational health and safety specialists,19-5011,4,0,0,0,0,0,0
+Community and social service occupations,21-0000,19,8,6,0,0,0,0
+"Counselors, social workers, and other community and social service specialists",21-1000,15,7,0,0,0,0,0
+Miscellaneous community and social service specialists,21-1090,4,0,0,0,0,0,0
+Religious workers,21-2000,4,1,0,0,0,0,0
+Legal occupations,23-0000,11,6,0,0,0,0,0
+Educational instruction and library occupations,25-0000,28,0,6,0,10,0,0
+Postsecondary teachers,25-1000,8,0,0,0,0,0,0
+Miscellaneous postsecondary teachers,25-1190,3,0,0,0,0,0,0
+"Career/technical education teachers, postsecondary",25-1194,1,0,0,0,0,0,0
+Other teachers and instructors,25-3000,6,0,0,0,0,0,0
+Self-enrichment teachers,25-3020,3,0,0,0,0,0,0
+Self-enrichment teachers,25-3021,3,0,0,0,0,0,0
+"Arts, design, entertainment, sports, and media occupations",27-0000,49,13,24,0,0,6,0
+Art and design workers,27-1000,13,3,0,0,0,6,0
+Artists and related workers,27-1010,6,3,0,0,0,0,0
+Designers,27-1020,7,0,0,0,0,0,0
+Graphic designers,27-1024,3,0,0,0,0,0,0
+"Entertainers and performers, sports and related workers",27-2000,29,0,19,0,0,0,0
+"Actors, producers, and directors",27-2010,3,0,0,0,0,0,0
+Producers and directors,27-2012,3,0,0,0,0,0,0
+"Athletes, coaches, umpires, and related workers",27-2020,15,0,0,0,0,0,0
+Athletes and sports competitors,27-2021,12,0,0,0,0,0,0
+Coaches and scouts,27-2022,3,0,0,0,0,0,0
+"Musicians, singers, and related workers",27-2040,7,0,5,0,0,0,0
+Musicians and singers,27-2042,7,0,5,0,0,0,0
+"Miscellaneous entertainers and performers, sports and related workers",27-2090,4,0,1,0,0,0,0
+Healthcare practitioners and technical occupations,29-0000,65,25,20,0,4,16,0
+Healthcare diagnosing or treating practitioners,29-1000,44,21,9,0,4,10,0
+Therapists,29-1120,3,0,3,0,0,0,0
+Veterinarians,29-1130,3,0,0,0,0,0,0
+Veterinarians,29-1131,3,0,0,0,0,0,0
+Registered nurses,29-1140,20,7,0,0,0,7,0
+Registered nurses,29-1141,20,7,0,0,0,7,0
+Nurse practitioners,29-1170,3,0,1,0,0,0,0
+Nurse practitioners,29-1171,3,0,1,0,0,0,0
+Physicians,29-1210,4,0,0,0,0,0,0
+Miscellaneous healthcare diagnosing or treating practitioners,29-1290,2,0,0,0,0,0,0
+Acupuncturists,29-1291,1,0,0,0,0,0,0
+Health technologists and technicians,29-2000,19,4,9,0,0,6,0
+Clinical laboratory technologists and technicians,29-2010,–,1,0,0,0,0,0
+Medical and clinical laboratory technicians,29-2012,–,1,0,0,0,0,0
+Emergency medical technicians and paramedics,29-2040,11,0,0,0,0,0,0
+Emergency medical technicians,29-2042,5,0,0,0,0,0,0
+Paramedics,29-2043,6,0,0,0,0,0,0
+Health practitioner support technologists and technicians,29-2050,2,2,0,0,0,0,0
+Psychiatric technicians,29-2053,2,2,0,0,0,0,0
+Healthcare support occupations,31-0000,38,9,4,0,5,20,0
+"Nursing, psychiatric, and home health aides",31-1000,32,0,0,0,5,0,0
+"Home health and personal care aides; and nursing assistants, orderlies, and psychiatric aides",31-1100,32,0,0,0,5,0,0
+Home health and personal care aides,31-1120,22,0,0,0,0,0,0
+Home health aides,31-1121,16,0,0,0,0,0,0
+Personal care aides,31-1122,6,0,0,0,0,0,0
+"Nursing assistants, orderlies, and psychiatric aides",31-1130,10,0,0,0,0,0,0
+Nursing assistants,31-1131,10,0,0,0,0,0,0
+Other healthcare support occupations,31-9000,6,0,0,0,0,0,0
+Protective service occupations,33-0000,335,143,125,0,15,30,0
+Supervisors of protective service workers,33-1000,41,17,0,0,0,0,0
+"Miscellaneous first-line supervisors, protective service workers",33-1090,8,0,0,0,0,0,0
+First-line supervisors of security workers,33-1091,7,0,0,0,0,0,0
+Law enforcement workers,33-3000,–,66,0,0,0,0,0
+"Bailiffs, correctional officers, and jailers",33-3010,11,5,0,0,0,0,0
+Correctional officers and jailers,33-3012,11,5,0,0,0,0,0
+Police officers,33-3050,116,60,0,0,0,0,0
+Police and sheriff's patrol officers,33-3051,116,60,0,0,0,0,0
+Other protective service workers,33-9000,119,58,34,0,0,18,0
+Security guards and gambling surveillance officers,33-9030,91,0,0,0,0,15,0
+Security guards,33-9032,91,0,0,0,0,15,0
+Food preparation and serving related occupations,35-0000,123,56,6,0,15,43,0
+Supervisors of food preparation and serving workers,35-1000,28,13,4,0,0,11,0
+Supervisors of food preparation and serving workers,35-1010,28,13,4,0,0,11,0
+Chefs and head cooks,35-1011,9,0,0,0,0,6,0
+First-line supervisors of food preparation and serving workers,35-1012,19,0,0,0,0,5,0
+Cooks and food preparation workers,35-2000,40,15,0,0,9,13,0
+Cooks,35-2010,30,10,0,0,6,0,0
+"Cooks, fast food",35-2011,10,4,0,0,0,0,0
+"Cooks, institution and cafeteria",35-2012,4,0,0,0,0,0,0
+"Cooks, restaurant",35-2014,12,4,0,0,3,0,0
+Food preparation workers,35-2020,10,5,0,0,3,0,0
+Food preparation workers,35-2021,10,5,0,0,3,0,0
+Food and beverage serving workers,35-3000,43,25,0,0,0,13,0
+Fast food and counter workers,35-3020,28,18,0,0,0,0,0
+Fast food and counter workers,35-3023,28,18,0,0,0,0,0
+Waiters and waitresses,35-3030,8,0,0,0,0,3,0
+Waiters and waitresses,35-3031,8,0,0,0,0,3,0
+Other food preparation and serving related workers,35-9000,12,3,0,0,0,6,0
+Dishwashers,35-9020,7,0,0,0,0,0,0
+Dishwashers,35-9021,7,0,0,0,0,0,0
+Building and grounds cleaning and maintenance occupations,37-0000,352,25,93,4,93,79,58
+Supervisors of building and grounds cleaning and maintenance workers,37-1000,56,0,12,0,13,5,19
+First-line supervisors of building and grounds cleaning and maintenance workers,37-1010,56,0,12,0,13,5,19
+First-line supervisors of housekeeping and janitorial workers,37-1011,9,0,1,0,5,0,0
+"First-line supervisors of landscaping, lawn service, and groundskeeping workers",37-1012,47,0,11,0,8,0,19
+Building cleaning and pest control workers,37-2000,74,10,9,0,20,26,9
+Building cleaning workers,37-2010,66,10,0,0,0,22,9
+"Janitors and cleaners, except maids and housekeeping cleaners",37-2011,50,0,0,0,0,15,7
+Maids and housekeeping cleaners,37-2012,12,0,0,0,0,7,0
+Pest control workers,37-2020,8,0,0,0,0,4,0
+Pest control workers,37-2021,8,0,0,0,0,4,0
+Grounds maintenance workers,37-3000,222,0,72,0,60,48,30
+Grounds maintenance workers,37-3010,222,0,72,0,60,48,30
+Landscaping and groundskeeping workers,37-3011,137,0,61,0,27,30,11
+Tree trimmers and pruners,37-3013,74,0,0,0,32,15,19
+Personal care and service occupations,39-0000,61,19,13,0,7,18,0
+Supervisors of personal care and service workers,39-1000,4,0,0,0,0,0,0
+Animal care and service workers,39-2000,11,5,0,0,0,4,0
+Animal trainers,39-2010,4,0,0,0,0,0,0
+Animal trainers,39-2011,4,0,0,0,0,0,0
+Animal caretakers,39-2020,7,0,0,0,0,0,0
+Animal caretakers,39-2021,7,0,0,0,0,0,0
+Entertainment attendants and related workers,39-3000,9,0,4,0,0,0,0
+Miscellaneous entertainment attendants and related workers,39-3090,6,0,0,0,0,0,0
+Amusement and recreation attendants,39-3091,6,0,0,0,0,0,0
+Personal appearance workers,39-5000,10,6,0,0,0,0,0
+Tour and travel guides,39-7000,9,3,0,0,0,0,0
+Tour and travel guides,39-7010,9,3,0,0,0,0,0
+Tour guides and escorts,39-7011,6,0,0,0,0,0,0
+Travel guides,39-7012,3,0,0,0,0,0,0
+Other personal care and service workers,39-9000,14,0,4,0,0,6,0
+Childcare workers,39-9010,4,0,0,0,0,1,0
+Childcare workers,39-9011,4,0,0,0,0,1,0
+Recreation and fitness workers,39-9030,6,0,0,0,0,3,0
+Recreation workers,39-9032,5,0,0,0,0,3,0
+Sales and related occupations,41-0000,212,106,33,0,29,36,5
+Supervisors of sales workers,41-1000,67,38,12,0,6,7,0
+First-line supervisors of sales workers,41-1010,67,38,12,0,6,7,0
+First-line supervisors of retail sales workers,41-1011,59,35,9,0,0,0,0
+First-line supervisors of non-retail sales workers,41-1012,8,3,3,0,0,0,0
+Retail sales workers,41-2000,112,60,0,0,17,25,0
+Cashiers,41-2010,67,42,0,0,0,18,0
+Cashiers,41-2011,67,42,0,0,0,18,0
+Counter and rental clerks and parts salespersons,41-2020,5,0,0,0,0,0,0
+Retail salespersons,41-2030,40,0,0,0,0,7,0
+Retail salespersons,41-2031,40,0,0,0,0,7,0
+"Sales representatives, services",41-3000,9,0,3,0,0,0,0
+"Miscellaneous sales representatives, services",41-3090,5,0,0,0,0,0,0
+"Sales representatives of services, except advertising, insurance, financial services, and travel",41-3091,5,0,0,0,0,0,0
+"Sales representatives, wholesale and manufacturing",41-4000,9,0,5,0,0,0,0
+"Sales representatives, wholesale and manufacturing",41-4010,9,0,5,0,0,0,0
+"Sales representatives, wholesale and manufacturing, technical and scientific products",41-4011,4,0,0,0,0,0,0
+"Sales representatives, wholesale and manufacturing, except technical and scientific products",41-4012,5,0,0,0,0,0,0
+Other sales and related workers,41-9000,15,5,4,0,3,0,0
+"Models, demonstrators, and product promoters",41-9010,1,0,0,0,0,0,0
+Models,41-9012,1,0,0,0,0,0,0
+Real estate brokers and sales agents,41-9020,6,3,0,0,0,0,0
+Real estate brokers,41-9021,3,0,0,0,0,0,0
+Real estate sales agents,41-9022,3,0,0,0,0,0,0
+Miscellaneous sales and related workers,41-9090,6,0,0,0,0,0,0
+Office and administrative support occupations,43-0000,82,26,25,0,0,15,0
+Supervisors of office and administrative support workers,43-1000,5,0,0,0,0,0,0
+First-line supervisors of office and administrative support workers,43-1010,5,0,0,0,0,0,0
+First-line supervisors of office and administrative support workers,43-1011,5,0,0,0,0,0,0
+Information and record clerks,43-4000,13,7,0,0,0,0,0
+Customer service representatives,43-4050,7,3,0,0,0,0,0
+Customer service representatives,43-4051,7,3,0,0,0,0,0
+"Material recording, scheduling, dispatching, and distributing workers",43-5000,43,7,19,0,0,8,0
+Couriers and messengers,43-5020,8,0,0,0,0,0,0
+Couriers and messengers,43-5021,8,0,0,0,0,0,0
+"Shipping, receiving, and inventory clerks",43-5070,11,4,0,0,0,0,0
+"Shipping, receiving, and inventory clerks",43-5071,11,4,0,0,0,0,0
+Secretaries and administrative assistants,43-6000,5,0,0,0,0,0,0
+Secretaries and administrative assistants,43-6010,5,0,0,0,0,0,0
+Other office and administrative support workers,43-9000,10,0,0,0,0,0,0
+"Office clerks, general",43-9060,5,0,0,0,0,0,0
+"Office clerks, general",43-9061,5,0,0,0,0,0,0
+"Farming, fishing, and forestry occupations",45-0000,223,21,83,0,0,21,80
+"Supervisors of farming, fishing, and forestry workers",45-1000,6,0,3,0,0,0,0
+"First-line supervisors of farming, fishing, and forestry workers",45-1010,6,0,3,0,0,0,0
+"First-line supervisors of farming, fishing, and forestry workers",45-1011,6,0,3,0,0,0,0
+Agricultural workers,45-2000,146,18,66,0,0,13,34
+Miscellaneous agricultural workers,45-2090,146,18,66,0,0,13,34
+Agricultural equipment operators,45-2091,11,0,5,0,0,0,3
+"Farmworkers and laborers, crop, nursery, and greenhouse",45-2092,80,7,44,0,0,4,16
+"Farmworkers, farm, ranch, and aquacultural animals",45-2093,52,9,17,0,0,0,15
+Fishing and hunting workers,45-3000,16,0,8,0,0,0,0
+Fishing and hunting workers,45-3030,16,0,8,0,0,0,0
+Fishing and hunting workers,45-3031,16,0,8,0,0,0,0
+"Forest, conservation, and logging workers",45-4000,55,0,6,0,0,0,43
+Logging workers,45-4020,54,0,6,0,0,0,43
+Fallers,45-4021,29,0,0,0,0,0,0
+Logging equipment operators,45-4022,10,0,3,0,0,0,5
+Construction and extraction occupations,47-0000,1056,47,204,20,423,191,169
+Supervisors of construction and extraction workers,47-1000,113,9,24,3,36,21,20
+First-line supervisors of construction trades and extraction workers,47-1010,113,9,24,3,36,21,20
+First-line supervisors of construction trades and extraction workers,47-1011,113,9,24,3,36,21,20
+Construction trades workers,47-2000,811,33,132,0,366,155,113
+"Brickmasons, blockmasons, and stonemasons",47-2020,14,0,0,0,11,0,0
+Carpenters,47-2030,95,7,8,0,52,20,8
+Carpenters,47-2031,95,7,8,0,52,20,8
+"Carpet, floor, and tile installers and finishers",47-2040,8,0,0,0,3,3,0
+"Floor layers, except carpet, wood, and hard tiles",47-2042,4,0,0,0,0,0,0
+"Cement masons, concrete finishers, and terrazzo workers",47-2050,20,0,9,0,0,0,6
+Cement masons and concrete finishers,47-2051,20,0,9,0,0,0,6
+Construction laborers,47-2060,320,14,56,0,119,62,62
+Construction laborers,47-2061,320,14,56,0,119,62,62
+Construction equipment operators,47-2070,47,0,19,0,5,6,14
+Operating engineers and other construction equipment operators,47-2073,38,0,0,0,0,0,11
+"Drywall installers, ceiling tile installers, and tapers",47-2080,11,0,0,0,9,0,0
+Drywall and ceiling tile installers,47-2081,11,0,0,0,9,0,0
+Electricians,47-2110,75,0,12,0,21,32,4
+Electricians,47-2111,75,0,12,0,21,32,4
+Insulation workers,47-2130,6,0,3,0,0,0,0
+"Insulation workers, floor, ceiling, and wall",47-2131,6,0,3,0,0,0,0
+Painters and paperhangers,47-2140,38,0,6,0,23,6,0
+"Painters, construction and maintenance",47-2141,37,0,0,0,23,6,0
+Paperhangers,47-2142,1,0,0,0,0,0,0
+"Pipelayers, plumbers, pipefitters, and steamfitters",47-2150,37,0,0,0,7,9,14
+Pipelayers,47-2151,8,0,0,0,0,0,0
+"Plumbers, pipefitters, and steamfitters",47-2152,29,0,0,0,7,9,0
+Plasterers and stucco masons,47-2160,4,0,0,0,4,0,0
+Plasterers and stucco masons,47-2161,4,0,0,0,4,0,0
+Roofers,47-2180,105,0,7,0,90,6,0
+Roofers,47-2181,105,0,7,0,90,6,0
+Sheet metal workers,47-2210,8,0,0,0,4,4,0
+Sheet metal workers,47-2211,8,0,0,0,4,4,0
+Structural iron and steel workers,47-2220,14,0,0,0,9,0,0
+Structural iron and steel workers,47-2221,14,0,0,0,9,0,0
+Solar photovoltaic installers,47-2230,5,0,0,0,0,0,0
+Solar photovoltaic installers,47-2231,5,0,0,0,0,0,0
+"Helpers, construction trades",47-3000,20,0,0,0,7,7,0
+"Helpers, construction trades",47-3010,20,0,0,0,7,7,0
+Helpers--electricians,47-3013,7,0,0,0,0,0,0
+Helpers--roofers,47-3016,4,0,0,0,3,0,0
+Other construction and related workers,47-4000,42,0,20,3,6,4,0
+Construction and building inspectors,47-4010,7,0,0,0,0,0,0
+Construction and building inspectors,47-4011,7,0,0,0,0,0,0
+Elevator and escalator installers and repairers,47-4020,4,0,0,0,0,0,0
+Elevator and escalator installers and repairers,47-4021,4,0,0,0,0,0,0
+Fence erectors,47-4030,4,0,0,0,0,0,0
+Fence erectors,47-4031,4,0,0,0,0,0,0
+Hazardous materials removal workers,47-4040,1,0,0,0,0,0,0
+Hazardous materials removal workers,47-4041,1,0,0,0,0,0,0
+Highway maintenance workers,47-4050,10,0,8,0,0,0,0
+Highway maintenance workers,47-4051,10,0,8,0,0,0,0
+Rail-track laying and maintenance equipment operators,47-4060,4,0,0,1,0,0,0
+Rail-track laying and maintenance equipment operators,47-4061,4,0,0,1,0,0,0
+Septic tank servicers and sewer pipe cleaners,47-4070,5,0,0,0,0,0,0
+Septic tank servicers and sewer pipe cleaners,47-4071,5,0,0,0,0,0,0
+Miscellaneous construction and related workers,47-4090,7,0,0,0,0,0,0
+Extraction workers,47-5000,70,0,23,0,8,4,31
+"Derrick, rotary drill, and service unit operators, oil and gas",47-5010,24,0,7,0,4,0,10
+"Derrick operators, oil and gas",47-5011,9,0,0,0,0,0,5
+"Rotary drill operators, oil and gas",47-5012,4,0,0,0,0,0,0
+"Service unit operators, oil and gas",47-5013,11,0,0,0,0,0,0
+Surface mining machine operators and earth drillers,47-5020,15,0,3,0,0,0,10
+"Excavating and loading machine and dragline operators, surface mining",47-5022,14,0,0,0,0,0,10
+"Earth drillers, except oil and gas",47-5023,1,0,0,0,0,0,0
+Underground mining machine operators,47-5040,8,0,0,0,0,0,3
+"Roof bolters, mining",47-5043,2,0,0,0,0,0,0
+"Roustabouts, oil and gas",47-5070,17,0,6,0,0,0,8
+"Roustabouts, oil and gas",47-5071,17,0,6,0,0,0,8
+Helpers--extraction workers,47-5080,1,0,0,0,0,0,0
+Helpers--extraction workers,47-5081,1,0,0,0,0,0,0
+Miscellaneous extraction workers,47-5090,3,0,0,0,0,0,0
+"Installation, maintenance, and repair occupations",49-0000,431,68,82,13,51,105,110
+"Supervisors of installation, maintenance, and repair workers",49-1000,38,11,5,0,0,0,0
+"First-line supervisors of mechanics, installers, and repairers",49-1010,38,11,5,0,0,0,0
+"First-line supervisors of mechanics, installers, and repairers",49-1011,38,11,5,0,0,0,0
+"Electrical and electronic equipment mechanics, installers, and repairers",49-2000,24,5,10,0,0,0,0
+"Miscellaneous electrical and electronic equipment mechanics, installers, and repairers",49-2090,12,3,5,0,0,0,0
+"Electrical and electronics repairers, commercial and industrial equipment",49-2094,4,0,0,0,0,0,0
+"Electronic equipment installers and repairers, motor vehicles",49-2096,1,1,0,0,0,0,0
+Audiovisual equipment installers and repairers,49-2097,4,0,0,0,0,0,0
+Security and fire alarm systems installers,49-2098,3,0,0,0,0,0,0
+"Vehicle and mobile equipment mechanics, installers, and repairers",49-3000,140,22,28,8,8,20,54
+Automotive technicians and repairers,49-3020,74,0,10,0,0,16,24
+Automotive body and related repairers,49-3021,5,0,0,0,0,0,0
+Automotive service technicians and mechanics,49-3023,69,0,10,0,0,0,24
+Bus and truck mechanics and diesel engine specialists,49-3030,24,0,7,4,0,0,9
+Bus and truck mechanics and diesel engine specialists,49-3031,24,0,7,4,0,0,9
+Heavy vehicle and mobile equipment service technicians and mechanics,49-3040,28,0,6,0,0,1,18
+Farm equipment mechanics and service technicians,49-3041,8,0,0,0,0,0,0
+"Mobile heavy equipment mechanics, except engines",49-3042,17,0,0,0,0,0,11
+Rail car repairers,49-3043,3,0,0,0,0,1,0
+"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",49-3090,7,0,0,0,0,0,0
+"Other installation, maintenance, and repair occupations",49-9000,229,30,39,5,35,71,47
+Control and valve installers and repairers,49-9010,1,0,0,1,0,0,0
+Mechanical door repairers,49-9011,1,0,0,1,0,0,0
+"Heating, air conditioning, and refrigeration mechanics and installers",49-9020,23,0,0,0,8,11,0
+"Heating, air conditioning, and refrigeration mechanics and installers",49-9021,23,0,0,0,8,11,0
+"Industrial machinery installation, repair, and maintenance workers",49-9040,42,0,6,0,6,10,14
+Industrial machinery mechanics,49-9041,19,0,3,0,0,5,8
+"Maintenance workers, machinery",49-9043,15,0,3,0,0,0,0
+Line installers and repairers,49-9050,35,3,9,1,0,0,0
+Electrical power-line installers and repairers,49-9051,20,0,5,0,0,0,0
+Telecommunications line installers and repairers,49-9052,15,0,4,1,0,0,0
+"Maintenance and repair workers, general",49-9070,95,17,16,0,16,27,18
+"Maintenance and repair workers, general",49-9071,95,17,16,0,16,27,18
+"Miscellaneous installation, maintenance, and repair workers",49-9090,31,5,0,0,0,10,8
+Commercial divers,49-9092,3,0,0,0,0,0,0
+Locksmiths and safe repairers,49-9094,4,0,0,0,0,0,0
+Riggers,49-9096,3,0,0,0,0,0,0
+"Helpers--installation, maintenance, and repair workers",49-9098,10,0,0,0,0,4,4
+Production occupations,51-0000,268,25,36,21,39,61,85
+Supervisors of production workers,51-1000,19,4,0,0,3,0,5
+First-line supervisors of production and operating workers,51-1010,19,4,0,0,3,0,5
+First-line supervisors of production and operating workers,51-1011,19,4,0,0,3,0,5
+Assemblers and fabricators,51-2000,21,4,4,0,3,5,5
+Miscellaneous assemblers and fabricators,51-2090,19,4,4,0,0,5,0
+Team assemblers,51-2092,9,0,0,0,0,3,0
+Food processing workers,51-3000,19,0,0,0,4,5,7
+Bakers,51-3010,4,0,0,0,0,0,0
+Bakers,51-3011,4,0,0,0,0,0,0
+"Butchers and other meat, poultry, and fish processing workers",51-3020,6,0,0,0,0,0,0
+Slaughterers and meat packers,51-3023,3,0,0,0,0,0,0
+Miscellaneous food processing workers,51-3090,9,0,0,0,0,0,4
+"Food and tobacco roasting, baking, and drying machine operators and tenders",51-3091,3,0,0,0,0,0,0
+Metal workers and plastic workers,51-4000,94,0,11,0,11,24,37
+"Forming machine setters, operators, and tenders, metal and plastic",51-4020,3,0,0,0,0,0,0
+"Machine tool cutting setters, operators, and tenders, metal and plastic",51-4030,7,0,0,0,0,0,5
+"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",51-4031,4,0,0,0,0,0,0
+Machinists,51-4040,9,0,0,0,0,0,5
+Machinists,51-4041,9,0,0,0,0,0,5
+"Metal furnace operators, tenders, pourers, and casters",51-4050,3,0,0,0,0,1,0
+"Welding, soldering, and brazing workers",51-4120,61,0,0,0,9,17,16
+"Welders, cutters, solderers, and brazers",51-4121,53,0,0,0,0,13,0
+"Welding, soldering, and brazing machine setters, operators, and tenders",51-4122,8,0,0,0,0,4,0
+Miscellaneous metal workers and plastic workers,51-4190,7,0,0,0,0,0,0
+Printing workers,51-5100,3,0,0,0,0,0,0
+Printing workers,51-5110,3,0,0,0,0,0,0
+Printing press operators,51-5112,3,0,0,0,0,0,0
+"Textile, apparel, and furnishings workers",51-6000,6,0,0,0,0,0,0
+Shoe and leather workers,51-6040,1,0,0,0,0,0,0
+Shoe and leather workers and repairers,51-6041,1,0,0,0,0,0,0
+Woodworkers,51-7000,12,0,0,0,3,0,6
+"Woodworking machine setters, operators, and tenders",51-7040,7,0,0,0,0,0,0
+"Sawing machine setters, operators, and tenders, wood",51-7041,4,0,0,0,0,0,0
+"Woodworking machine setters, operators, and tenders, except sawing",51-7042,3,0,0,0,0,0,0
+Plant and system operators,51-8000,26,0,0,5,0,7,0
+Water and wastewater treatment plant and system operators,51-8030,8,0,0,0,0,0,0
+Water and wastewater treatment plant and system operators,51-8031,8,0,0,0,0,0,0
+Miscellaneous plant and system operators,51-8090,11,0,0,0,0,0,0
+"Petroleum pump system operators, refinery operators, and gaugers",51-8093,5,0,0,0,0,0,0
+Other production occupations,51-9000,68,6,11,5,9,16,20
+"Chemical processing machine setters, operators, and tenders",51-9010,4,0,0,0,0,0,0
+"Crushing, grinding, polishing, mixing, and blending workers",51-9020,6,0,0,0,0,0,3
+"Extruding, forming, pressing, and compacting machine setters, operators, and tenders",51-9040,3,0,0,0,0,0,0
+"Extruding, forming, pressing, and compacting machine setters, operators, and tenders",51-9041,3,0,0,0,0,0,0
+"Inspectors, testers, sorters, samplers, and weighers",51-9060,13,0,0,0,3,4,0
+"Inspectors, testers, sorters, samplers, and weighers",51-9061,13,0,0,0,3,4,0
+Packaging and filling machine operators and tenders,51-9110,3,0,0,0,0,0,0
+Packaging and filling machine operators and tenders,51-9111,3,0,0,0,0,0,0
+Miscellaneous production workers,51-9190,35,0,6,0,0,9,11
+"Molders, shapers, and casters, except metal and plastic",51-9195,1,0,0,0,0,0,1
+"Paper goods machine setters, operators, and tenders",51-9196,7,0,0,0,0,0,0
+Transportation and material moving occupations,53-0000,1620,121,1135,12,75,135,140
+Supervisors of transportation and material moving workers,53-1000,24,5,11,0,0,0,5
+First-line supervisors of transportation and material moving workers,53-1040,24,5,11,0,0,0,5
+"First-line supervisors of helpers, laborers, and material movers, hand",53-1042,5,0,3,0,0,0,0
+First-line supervisors of material-moving machine and vehicle operators,53-1043,11,0,6,0,0,0,3
+Air transportation workers,53-2000,74,0,70,0,0,0,0
+Aircraft pilots and flight engineers,53-2010,72,0,0,0,0,0,0
+Commercial pilots,53-2012,55,0,0,0,0,0,0
+Motor vehicle operators,53-3000,1198,76,943,0,35,65,72
+"Ambulance drivers and attendants, except emergency medical technicians",53-3010,1,0,1,0,0,0,0
+"Ambulance drivers and attendants, except emergency medical technicians",53-3011,1,0,1,0,0,0,0
+Driver/sales workers and truck drivers,53-3030,1115,47,895,0,33,62,71
+Driver/sales workers,53-3031,86,15,63,0,0,0,0
+Heavy and tractor-trailer truck drivers,53-3032,934,29,747,0,27,56,0
+Light truck drivers,53-3033,95,3,85,0,0,0,0
+Passenger vehicle drivers,53-3050,68,28,35,0,0,0,0
+"Bus drivers, school",53-3051,8,0,0,0,0,0,0
+"Bus drivers, transit and intercity",53-3052,9,0,0,0,0,0,0
+Shuttle drivers and chauffeurs,53-3053,11,0,7,0,0,0,0
+Taxi drivers,53-3054,40,0,0,0,0,0,0
+Miscellaneous motor vehicle operators,53-3090,14,0,12,0,0,0,0
+Rail transportation workers,53-4000,8,0,0,0,0,0,0
+Water transportation workers,53-5000,23,0,11,0,0,0,6
+Ship and boat captains and operators,53-5020,11,0,6,0,0,0,0
+"Captains, mates, and pilots of water vessels",53-5021,11,0,6,0,0,0,0
+Other transportation workers,53-6000,12,0,0,0,0,0,0
+Parking attendants,53-6020,4,0,0,0,0,0,0
+Parking attendants,53-6021,4,0,0,0,0,0,0
+Material moving workers,53-7000,281,0,87,0,38,63,55
+Crane and tower operators,53-7020,12,0,0,0,0,3,0
+Crane and tower operators,53-7021,12,0,0,0,0,3,0
+Dredge operators,53-7030,1,0,0,0,0,0,0
+Dredge operators,53-7031,1,0,0,0,0,0,0
+Industrial truck and tractor operators,53-7050,56,0,27,0,0,15,9
+Industrial truck and tractor operators,53-7051,56,0,27,0,0,15,9
+Laborers and material movers,53-7060,182,0,39,0,33,42,38
+Cleaners of vehicles and equipment,53-7061,10,0,4,0,0,0,0
+"Laborers and freight, stock, and material movers, hand",53-7062,142,0,35,0,24,32,34
+"Packers and packagers, hand",53-7064,8,0,0,0,0,0,0
+Stockers and order fillers,53-7065,22,0,0,0,0,6,0
+Refuse and recyclable material collectors,53-7080,22,0,16,0,0,0,0
+Refuse and recyclable material collectors,53-7081,22,0,16,0,0,0,0
+Miscellaneous material moving workers,53-7190,3,0,0,0,0,0,0

@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Workplace injuries</title>
+    <script src="https://d3js.org/d3.v6.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="stylesheet" href="styles.css">
+
+</head>
+<body>
+    <h1>Fatal occupational injuries in the US</h1>
+    <div class="text-block">
+        <p>The U.S. Bureau of Labor Statistics collects data on workplace 
+            injuries that lead to death.
+        </p>
+        <p>Each injury record includes the occupation, occupational code, and 
+            the category of injury, divided among the following:
+        </p>
+        <ul>
+            <li>Violence and other injuries by persons or animals</li>
+            <li>Transportation incidents</li>
+            <li>Fires and explosions</li>
+            <li>Falls, slips, trips</li>
+            <li>Exposure to harmful substances or environments</li>
+            <li>Contact with objects and equipment</li>
+            <li>Total</li>
+        </ul>
+        <p>It is important to note that the total does not always equal the
+            sum of the other categories; e.g., the police officer occupation 
+            has a recorded total of 116 yet only specifies the 60 of them 
+            that are the result of violence.
+        </p>
+        <p>
+            The Bureau of Labor Statistics puts this data into two very similar
+            spreadsheets available for public download, one using NAICS codes
+            for occupation types, and the other using the SOC system.
+        </p>
+        <p>
+            It is the opinion of this paper that the SOC system is superior for
+            its easily sorted range of broadness: occupations are broken into four
+            degrees of specificity, which the 2018 user guide lists as:
+        </p>
+        <ul>
+            <li>Major groups, whose codes end in four zeros (e.g., 29-0000 Healthcare Practitioners and Technical
+                Occupations)</li>
+            <li>Minor groups, whose codes end in three zeros, with exception to
+                minor groups 15-1200 Computer Occupations, 31-
+                1100 Home Health and Personal Care Aides; and Nursing Assistants, Orderlies, and
+                Psychiatric Aides, and 51-5100 Printing Workers, whose numbers are small
+                enough to be ignored for the purposes of this brief overview.
+            </li>
+            <li>Broad occupations, ending with 0 (e.g., 29-1020 Dentists)</li>
+            <li>Detailed occupations, ending with a number other than 0 (e.g., 29-1022 Oral and
+                Maxillofacial Surgeons)</li>
+        </ul>
+        <p>
+            Using this delineation to make a selection on the dropdown select,
+            the occupations are displayed with the 10 highest counts of 
+            injuries that led to death, with mind to each level of specificity.
+        </p>
+        <p>
+            The following chart was made with D3.js. Hover over a bar to see its details.
+        </p>
+        <label for="categories">Choose a specificty:</label>
+        <select name="categories" id="categories" onchange="generateD3()">
+            <option value="Major groups">Major groups</option>
+            <option value="Minor groups">Minor groups</option>
+            <option value="Broad occupations">Broad occupations</option>
+            <option value="Detailed occupations">Detailed occupations</option>
+        </select>
+    </div>
+    
+    <h3 id="describe">Fatal work-related injuries: 
+        <br>Occupation:
+    </h3>
+    <div id="chart"></div>
+    <div class="text-block">
+        <p>Transportation occupation categories are a striking winner 
+            for what seems the most dangerous.
+        </p>
+        <p>
+            It should be rather easy to predict, then, which category of injury
+            has the highest total count.
+        </p>
+        <p>The following chart was generated with Chart.js using the same data,
+            but summing totals from every observation, not just the top 10.
+        </p>
+        <p>The graphic is a polar area chart. Though similar in form to a pie 
+            chart, in which larger wedges mark larger proportions of a whole, 
+            this should not be read completely the same way; unlike in a pie chart, 
+            the wedges are fixed to have the same angle, and it is 
+            their reach outward that indicates their proportion.
+        </p>
+    </div>
+
+    <div id="polarWrap">
+        <canvas id="polarChart"></canvas>
+    </div>
+
+    <div class="text-block">
+        <p>Once again transportation is the largest cause of fatal injury,
+            though this time totaled across all occupations.
+        </p>
+        <p>Meanwhile fires and explosions as a category is barely apparent
+            and the others are roughly similar.
+        </p>
+        <p>Finally, the last chart makes the same comparison for different
+            categories of fatal injury across the top 10 major groups,
+            and was created using Flourish.
+        </p>
+    </div>
+
+    <div class="just-center">
+        <div class="flourish-embed flourish-chart" data-src="visualisation/17025388">
+            <script src="https://public.flourish.studio/resources/embed.js"></script>
+        </div>
+    </div>
+    <div class="text-block">
+        <p>A full look at the data can be found at <a href="https://www.bls.gov/iif/fatal-injuries-tables.htm#2022" target="_blank">
+            the Bureau of Labor Statistics website
+        </a>under 2022 Census of Fatal Occupational Injuries, named "Occupation by event or exposure, 2022"</p>
+        <p>Visualization softwares used, in order of use:</p>
+        <ul>
+            <li><a target="_blank" href="https://d3js.org/">D3.js</a></li>
+            <li><a target="_blank" href="https://www.chartjs.org/docs/latest/">Chart.js</a></li>
+            <li><a target="_blank" href="https://flourish.studio/">Flourish</a></li>
+        </ul>
+        <p>And last but not least, the <a href="https://www.bls.gov/soc/2018/soc_2018_user_guide.pdf">2018 SOC User Guide</a></p>
+    </div>
+
+    <script src="chart.js"></script>
+    <script src="d3.js"></script>
+</body>
+</html>
